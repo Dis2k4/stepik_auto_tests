@@ -1,0 +1,148 @@
+1656128489798	geckodriver	INFO	Listening on 127.0.0.1:58511
+1656128489823	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58512" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d_/48rswgnd41x9c84wv929gfz40000gn/T/rust_mozprofileIA5O6m"
+1656128492163	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:58512
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d_/48rswgnd41x9c84wv929gfz40000gn/T/rust_mozprofileIA5O6m/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1656128497263	Marionette	INFO	Listening on port 58525
+DevTools listening on ws://localhost:58512/devtools/browser/48d8d323-d498-453f-9f31-98bf3c79ab85
+Read port: 58525
+1656128497349	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1655729925, line 6289: unreachable code after return statement
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656128503329	Marionette	INFO	Stopped listening on port 58525
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1656128504508	geckodriver	INFO	Listening on 127.0.0.1:58603
+1656128505024	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58604" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d_/48rswgnd41x9c84wv929gfz40000gn/T/rust_mozprofile6JRkOg"
+1656128506440	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:58604
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d_/48rswgnd41x9c84wv929gfz40000gn/T/rust_mozprofile6JRkOg/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1656128510135	Marionette	INFO	Listening on port 58619
+Read port: 58619
+1656128510205	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:58604/devtools/browser/22db7785-287f-4535-88c0-3ca09f0b70d3
+JavaScript warning: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1655729925, line 6289: unreachable code after return statement
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656128516218	Marionette	INFO	Stopped listening on port 58619
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PWebSocket::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1656128517394	geckodriver	INFO	Listening on 127.0.0.1:58692
+1656128517907	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58693" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d_/48rswgnd41x9c84wv929gfz40000gn/T/rust_mozprofileaWlJgL"
+1656128519024	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:58693
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d_/48rswgnd41x9c84wv929gfz40000gn/T/rust_mozprofileaWlJgL/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1656128521990	Marionette	INFO	Listening on port 58708
+Read port: 58708
+1656128522058	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:58693/devtools/browser/52c59355-4567-4583-9508-72261646c717
+JavaScript warning: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1655729925, line 6289: unreachable code after return statement
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656128527700	Marionette	INFO	Stopped listening on port 58708
+1656128528692	geckodriver	INFO	Listening on 127.0.0.1:58783
+1656128529200	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58784" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d_/48rswgnd41x9c84wv929gfz40000gn/T/rust_mozprofilegqxuom"
+1656128530148	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:58784
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d_/48rswgnd41x9c84wv929gfz40000gn/T/rust_mozprofilegqxuom/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1656128533513	Marionette	INFO	Listening on port 58798
+Read port: 58798
+DevTools listening on ws://localhost:58784/devtools/browser/75c93655-0b27-47e2-831a-ff97eb5ae033
+1656128533615	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1655729925, line 6289: unreachable code after return statement
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656128539004	Marionette	INFO	Stopped listening on port 58798
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1656128540358	geckodriver	INFO	Listening on 127.0.0.1:58872
+1656128540867	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58873" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d_/48rswgnd41x9c84wv929gfz40000gn/T/rust_mozprofilevqHxIB"
+1656128541761	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:58873
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d_/48rswgnd41x9c84wv929gfz40000gn/T/rust_mozprofilevqHxIB/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1656128544771	Marionette	INFO	Listening on port 58886
+DevTools listening on ws://localhost:58873/devtools/browser/cef57c1f-2367-451a-8186-a714e5a0efe8
+Read port: 58886
+1656128544830	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1655729925, line 6289: unreachable code after return statement
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656128552300	Marionette	INFO	Stopped listening on port 58886
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1656128553311	geckodriver	INFO	Listening on 127.0.0.1:58970
+1656128553829	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58971" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d_/48rswgnd41x9c84wv929gfz40000gn/T/rust_mozprofileTHAvkj"
+1656128554706	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:58971
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d_/48rswgnd41x9c84wv929gfz40000gn/T/rust_mozprofileTHAvkj/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1656128557650	Marionette	INFO	Listening on port 58986
+DevTools listening on ws://localhost:58971/devtools/browser/15ba79ee-9119-4f44-bf75-b0bbaccc5cad
+Read port: 58986
+1656128557759	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1655729925, line 6289: unreachable code after return statement
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656128563045	Marionette	INFO	Stopped listening on port 58986
+1656128564050	geckodriver	INFO	Listening on 127.0.0.1:59061
+1656128564600	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59062" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d_/48rswgnd41x9c84wv929gfz40000gn/T/rust_mozprofileekFdFE"
+1656128565479	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:59062
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d_/48rswgnd41x9c84wv929gfz40000gn/T/rust_mozprofileekFdFE/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1656128567901	Marionette	INFO	Listening on port 59076
+DevTools listening on ws://localhost:59062/devtools/browser/876f3e46-3802-4c90-b66b-4732be9cb41c
+Read port: 59076
+1656128568012	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1655729925, line 6289: unreachable code after return statement
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656128573544	Marionette	INFO	Stopped listening on port 59076
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PWebSocket::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1656128574535	geckodriver	INFO	Listening on 127.0.0.1:59150
+1656128575053	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59151" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d_/48rswgnd41x9c84wv929gfz40000gn/T/rust_mozprofileZmGcne"
+1656128575919	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:59151
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d_/48rswgnd41x9c84wv929gfz40000gn/T/rust_mozprofileZmGcne/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1656128578822	Marionette	INFO	Listening on port 59165
+Read port: 59165
+1656128578925	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:59151/devtools/browser/de1451af-a2cf-48d4-8834-423b4abe54fd
+JavaScript warning: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1655729925, line 6289: unreachable code after return statement
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656128584289	Marionette	INFO	Stopped listening on port 59165
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
